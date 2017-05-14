@@ -1,4 +1,3 @@
-from __future__ import division
 def merge(L1, L2):
 	c = []
 	i = 0
